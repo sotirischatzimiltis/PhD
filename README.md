@@ -1,2 +1,2 @@
-# Sotiris Chatzimiltis PhD
+# Sotiris Chatzimiltis PhD Github repository
 
