@@ -13,3 +13,8 @@ Part 2:
 - Setting up the attack pipeline
 
 Part 3: 
+
+- Defense techniques for Split Learning
+- Setting up the defense pipeline
+- Comparing the leakage
+
