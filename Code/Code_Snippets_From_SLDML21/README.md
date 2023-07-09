@@ -7,4 +7,9 @@ Part 1:
 
 Part 2:
 
+- Understanding the information flow
+- Threat models for split Learning
+- Reconstructing input from activation
+- Setting up the attack pipeline
+
 Part 3: 
