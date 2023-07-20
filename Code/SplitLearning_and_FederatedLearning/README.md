@@ -1,1 +1,1 @@
-Code from https://github.com/bt-s/Split-Learning-and-Federated-Learning/tree/master
+Code adapted from https://github.com/bt-s/Split-Learning-and-Federated-Learning/tree/master
