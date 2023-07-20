@@ -1,1 +1,1 @@
-# Code for tradtional split learning
+# Code for traditional split learning
